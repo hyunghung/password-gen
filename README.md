@@ -21,5 +21,5 @@ we have learned in class. So I used "do while()" as a method to continue my loop
 was false. Another thing that I had difficulty with was trying to continue the loop with the code, like once I 
 pressed the button then how can I continue the loop and generate a new password? 
 
-Here is my link for GitHub:
-For the deployed application: 
+Here is my link for GitHub: https://github.com/hyunghung/password-gen
+For the deployed application: https://hyunghung.github.io/password-gen/ 
